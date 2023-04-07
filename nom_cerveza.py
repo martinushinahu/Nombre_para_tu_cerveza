@@ -1,0 +1,1 @@
+print("El nombre de tu Cerveza es: "+" \n \'"+ input("Tu superheore favorito: ")+" "+input("Tu color favorito: ")+ "\'")
